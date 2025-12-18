@@ -50,9 +50,7 @@ print("The R Matrix is\n",r)
 ```
 
 ## Output
-```
 <img width="1273" height="601" alt="Screenshot 2025-12-19 004314" src="https://github.com/user-attachments/assets/295f7049-591c-44f3-88f4-5ab6b86f0bf0" />
-
 ```
 
 ## Result
