@@ -28,7 +28,7 @@ Program to QR decomposition using the Gram-Schmidt method
 Developed by: VIGNESH.K
 RegisterNumber: 25018207
 ```
-'''
+```
 import numpy as np
 def QR_Decomposition(a):
     a=np.array(a,dtype=float)
@@ -47,7 +47,6 @@ a = np.array(eval(input()))
 q,r=QR_Decomposition(a)
 print("The Q Matrix is\n",q)
 print("The R Matrix is\n",r)
-
 ```
 
 ## Output
